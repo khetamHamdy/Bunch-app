@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1638.5 2330.5 19 19">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-linecap: square;
+      }
+    </style>
+  </defs>
+  <g id="Icon-global" transform="translate(1637 2329)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M7.4,34.068a9,9,0,0,1,13.541,0" transform="translate(-3.191 -17.136)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-1" d="M7.4,9.5a9,9,0,0,0,6.791,3.068A8.911,8.911,0,0,0,20.941,9.5" transform="translate(-3.191 -4.432)"/>
+    <path id="Path_3" data-name="Path 3" class="cls-1" d="M24,20c3.191-1.514,4.909-4.991,4.909-9S27.191,3.514,24,2" transform="translate(-13)"/>
+    <path id="Path_4" data-name="Path 4" class="cls-1" d="M16.909,20C13.718,18.486,12,15.009,12,11s1.718-7.486,4.909-9" transform="translate(-5.909)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M24,20V2" transform="translate(-13)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x2="18" transform="translate(2 11)"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="9" cy="9" rx="9" ry="9" transform="translate(2 2)"/>
+  </g>
+</svg>

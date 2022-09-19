@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2322.5 31.5 17.207 17.207">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: square;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Search-Icon-xs" transform="translate(1469 -15)">
+    <g id="zoom-2" transform="translate(853 46)">
+      <line id="Line_1" data-name="Line 1" class="cls-1" x1="4.267" y1="4.267" transform="translate(12.733 12.733)"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="6.857" cy="6.857" r="6.857" transform="translate(1 1)"/>
+    </g>
+  </g>
+</svg>
